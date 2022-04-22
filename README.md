@@ -6,13 +6,11 @@ The Microsoft Cloud-scale analytics documentation can be found at [https://aka.m
 
 This repo contains the presentations from the event which was held on April 21, 2022 | 7:00 AM - 9:00 AM PT | 14:00 - 16:00 UTC. However, it can still be watched on demand [here](https://docs.microsoft.com/events/learntv/AAA-Unlocking-Data/).
 
+Please find a zip file with all the presentations in PDF format. [Link](./presentations-pdf/unlockedcloudscaleanalytics.zip)
+
 ## About Event
 
 Do you have an outdated data architecture that isn't scaling with the needs of your multi-disciplinary organization? Do you need a consistent view for how to apply security, governance, master data management, metadata, and data modeling? Come hear how Microsoft's cloud scale analytics can provide you with the guidance you need to deploy the infrastructure and data mesh that underpins a scalable, federated, and governed analytics platform.
-
-## Content
-
-Please find a zip file with all the presentations in PDF format. [Link](./presentations-pdf/unlockedcloudscaleanalytics.zip)
 
 ## Contributing
 
