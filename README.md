@@ -15,7 +15,7 @@ Do you have an outdated data architecture that isn't scaling with the needs of y
 Please find below the event session with links to the presentations in PDF format.
 
 | --- | --- |
-| **Welcome** 
+| **Welcome** | |
 | **Keynote: What Keeps Chief Data Officers Awake At Night?** with Didem Un Ates | |
 | **Scalable Data Management and Analytics** with Mike Boswell | |
 | **A Microsoft Hybrid Approach to Data Mesh and Data Fabric**** with Emerson Gatchalian | |
