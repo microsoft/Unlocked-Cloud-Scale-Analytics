@@ -1,4 +1,4 @@
-# Unlocked: Cloud Scale Analytics
+# All Around Azure Unlocked: Cloud Scale Analytics
 
 Welcome to supporting repo for All Around Azure Unlocked: Cloud-scale analytics.
 
