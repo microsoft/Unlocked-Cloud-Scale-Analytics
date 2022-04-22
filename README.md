@@ -1,14 +1,26 @@
-# Project
+# Unlocked: Cloud Scale Analytics
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+Welcome to supporting repo for All Around Azure Unlocked: Cloud-scale analytics.
 
-As the maintainer of this project, please make a few updates:
+The Microsoft Cloud-scale analytics documentation can be found at [https://aka.ms/adopt/cloudscaleanalytics](https://aka.ms/adopt/cloudscaleanalytics).
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+This repo contains the presentations from the event which was held on April 21, 2022 | 7:00 AM - 9:00 AM PT | 14:00 - 16:00 UTC. However, it can still be watched on demand [here](https://docs.microsoft.com/events/learntv/AAA-Unlocking-Data/).
+
+## About Event
+
+Do you have an outdated data architecture that isn't scaling with the needs of your multi-disciplinary organization? Do you need a consistent view for how to apply security, governance, master data management, metadata, and data modeling? Come hear how Microsoft's cloud scale analytics can provide you with the guidance you need to deploy the infrastructure and data mesh that underpins a scalable, federated, and governed analytics platform.
+
+## Content
+
+Please find below the event session with links to the presentations in PDF format.
+
+| --- | --- |
+| **Welcome** 
+| **Keynote: What Keeps Chief Data Officers Awake At Night?** with Didem Un Ates | |
+| **Scalable Data Management and Analytics** with Mike Boswell | |
+| **A Microsoft Hybrid Approach to Data Mesh and Data Fabric**** with Emerson Gatchalian | |
+| **Applying Data Mesh to Your Organization** with Espen Brandt-Kjelsen and Piethein Strengholt | |
+| **Building out Tailwind Traders Data Mesh** with Hamood Aleem and Marvin Buss | |
 
 ## Contributing
 
