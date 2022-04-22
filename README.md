@@ -12,16 +12,7 @@ Do you have an outdated data architecture that isn't scaling with the needs of y
 
 ## Content
 
-Please find below the event session with links to the presentations in PDF format.
-
-| Session | Deck Link |
-|--- | ---|
-| Welcome | |
-| Keynote: What Keeps Chief Data Officers Awake At Night? with Didem Un Ates | No Link |
-| Scalable Data Management and Analytics with Mike Boswell |  |
-| A Microsoft Hybrid Approach to Data Mesh and Data Fabric with Emerson Gatchalian | |
-| Applying Data Mesh to Your Organization with Espen Brandt-Kjelsen and Piethein Strengholt | |
-| Building out Tailwind Traders Data Mesh with Hamood Aleem and Marvin Buss | |
+Please find a zip file with all the presentations in PDF format. [Link](./presentations-pdf/unlockedcloudscaleanalytics.zip)
 
 ## Contributing
 
