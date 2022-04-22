@@ -8,7 +8,7 @@ This repo contains the presentations from the event which was held on April 21, 
 
 Please find a zip file with all the presentations in PDF format. [Link](./presentations-pdf/unlockedcloudscaleanalytics.zip)
 
-## About Event
+## About the event
 
 Do you have an outdated data architecture that isn't scaling with the needs of your multi-disciplinary organization? Do you need a consistent view for how to apply security, governance, master data management, metadata, and data modeling? Come hear how Microsoft's cloud scale analytics can provide you with the guidance you need to deploy the infrastructure and data mesh that underpins a scalable, federated, and governed analytics platform.
 
